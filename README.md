@@ -1,2 +1,14 @@
-# ComputerName-IP-Using-Python
-This is a  simple python code to find out the name of the computer and its IP address.
+## Computer name and its IP address Using Python 3
+
+```
+@Dev/ED : Pavan Ananth Sharma
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>Dependences   
+
+- Python 3
+- pip (not compulsory)
+- socket (mostly inbuilt)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
