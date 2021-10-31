@@ -7,7 +7,7 @@
 
 >Dependences   
 
-- Python 3
+- Python 3 
 - pip (not compulsory)
 - socket (mostly inbuilt)
 _If the socket dependency is not there or if the system shoots error feel free to use this code: 
